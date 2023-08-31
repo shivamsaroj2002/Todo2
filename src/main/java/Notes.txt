@@ -1,0 +1,7 @@
+Stuck on Java date to string conversion
+
+Failed to convert value of type java.lang.String to required type java.time.LocalDate; Failed to convert from type [java.lang.String] to type [java.time.LocalDate] for value [2025/07/29]
+
+
+on 58
+on 60 
